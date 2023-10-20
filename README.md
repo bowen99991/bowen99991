@@ -7,7 +7,6 @@
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
 -   <a href="https://bowen99991.github.io/bowenBlog/">:smiley::smiley::smiley:</a>：个人博客，发表技术文章, 个人博客。
 
 ### **技术栈:**
@@ -24,7 +23,7 @@
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 ### 开源项目
-<br>
+
 
 ### Github 活跃度
 
