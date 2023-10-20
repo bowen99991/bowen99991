@@ -32,7 +32,6 @@
 
 ### Github 活跃度
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowen99991&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bowen99991&layout=compact&langs_count=6)
 
 
