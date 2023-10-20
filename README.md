@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+
 
 ## 前端工程师—bowen
 
@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://bowen99991.github.io/bowenBlog/"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：个人博客，发表技术文章, 个人博客。
+-   <a href="https://bowen99991.github.io/bowenBlog/"><code>:smiley::smiley::smiley:</code></a>：个人博客，发表技术文章, 个人博客。
 
 ### **技术栈:**
 
