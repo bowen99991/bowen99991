@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://bowen99991.github.io/bowenBlog/"><code>:smiley::smiley::smiley:</code></a>：个人博客，发表技术文章, 个人博客。
+-   <a href="https://bowen99991.github.io/bowenBlog/">:smiley::smiley::smiley:</a>：个人博客，发表技术文章, 个人博客。
 
 ### **技术栈:**
 
@@ -27,12 +27,14 @@
 ### 开源项目
 
 
-
 <br><br><br>
 
 ### Github 活跃度
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowen99991&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bowen99991&layout=compact&langs_count=6)
+
+
+## 今年汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liyupi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowen99991&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
